@@ -1,0 +1,7 @@
+server = "automatelx01"
+api_protocol = "https"
+user = "admin"
+enterprise = "HCLINDIA"
+organization = "hcl_test"
+git_port = "8989"
+pipeline = "master"

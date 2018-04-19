@@ -1,0 +1,11 @@
+DEPENDENCIES
+  wrap_test
+    path: .
+    metadata: true
+
+GRAPH
+  audit (6.0.1)
+    compat_resource (>= 0.0.0)
+  compat_resource (12.19.1)
+  wrap_test (0.1.10)
+    audit (>= 0.0.0)
